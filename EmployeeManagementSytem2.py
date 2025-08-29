@@ -103,4 +103,5 @@ def choicesOfOperation():
 print("********Welcome to Employee Management System********\n")       
 # Enter into the program
 choicesOfOperation()
-print("THANK YOU FOR USING OUT SERVICE")
+
+print("THANK YOU FOR USING OUR SERVICE")
